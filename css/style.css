@@ -16,7 +16,7 @@ body {
   justify-content: start;
 }
 .container div, .container2 div {
-  border: solid 1px white;
+  margin: 1px;
   font-weight: 700;
   color: white;
   font-size: 22px;
